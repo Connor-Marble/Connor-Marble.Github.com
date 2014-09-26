@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Connor Marble Blog Home
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
