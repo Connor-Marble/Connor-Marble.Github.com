@@ -12,7 +12,7 @@ tagline: Supporting tagline
     {% endfor %}
 </ul>
 
-
+<a href="archive.html">See all posts</a>
 
 
 
